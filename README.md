@@ -1,2 +1,16 @@
-# hackintosh-opencore-asrock-b365m-itx
-Hackintosh by OpenCore
+## 配置清单 ##
+
+|组件|详情|
+|-|-|
+|主板|华擎 B365 ITX|
+|CPU|i5 8600 散片|
+|内存|威刚 万紫千红 16G|
+|显卡|蓝宝石 RX584 矿卡|
+|固态硬盘|西数 SN550 512G|
+|电源|全汉 SFX MS450|
+|CPU风扇|ID-COOLING IS-60|
+|机箱|小喆 B2|
+|机箱风扇|ID-COOLING|
+|显示器|戴尔 U2720Q|
+|免驱网卡|BCM94360CS2|
+|外设|微软 Sculpt 蓝牙鼠标|
