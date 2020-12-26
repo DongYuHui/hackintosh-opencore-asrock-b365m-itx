@@ -188,6 +188,8 @@
 			<false/>
 			<key>SyncRuntimePermissions</key>
 			<true/>
+			<key>AllowRelocationBlock</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -197,7 +199,15 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwCSPg==</data>
+				<data>AwCRPg==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAACA==</data>
+				<key>shikigva</key>
+				<integer>80</integer>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -631,6 +641,8 @@
 			<false/>
 			<key>LegacyCommpage</key>
 			<false/>
+			<key>ForceSecureBootScheme</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -721,6 +733,8 @@
 			<integer>0</integer>
 			<key>Vault</key>
 			<string>Optional</string>
+			<key>BlacklistAppleUpdate</key>
+			<true/>
 		</dict>
 		<key>Tools</key>
 		<array>
@@ -932,6 +946,8 @@
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
 			<key>UgaPassThrough</key>
+			<false/>
+			<key>ForceResolution</key>
 			<false/>
 		</dict>
 		<key>ProtocolOverrides</key>
