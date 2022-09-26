@@ -1,4 +1,4 @@
-组装说明请移步博客：[甜品级黑苹果组装记录](https://dongyuhui.github.io/post/balanced-hackintosh-guide/)
+详细说明请移步博客：[甜品级黑苹果组装记录](https://dongyuhui.github.io/post/balanced-hackintosh-guide/)
 
 ## 配置清单 ##
 
@@ -29,18 +29,21 @@
 
 ### 待测功能 ###
 
-- 睡眠
 - 随航：没有设备供测试
 
 ### 使用截图 ###
 
-![系统信息](https://z3.ax1x.com/2021/07/20/WtOw5R.jpg)
+[![系统信息](https://s1.ax1x.com/2022/09/26/xZSh6I.jpg)](https://imgse.com/i/xZSh6I)
 
-![解码正常](https://z3.ax1x.com/2021/07/20/WtXJJI.jpg)
+[![运行状态](https://s1.ax1x.com/2022/09/26/xZS4Xt.jpg)](https://imgse.com/i/xZS4Xt)
 
-![运行状态](https://z3.ax1x.com/2021/07/20/WtXdOS.jpg)
+[![桌面展示](https://s1.ax1x.com/2022/09/26/xZSInP.jpg)](https://imgse.com/i/xZSInP)
 
 ## 更新日志 ##
+
+### 2022.07.30 ###
+
+升级 OpenCore 至 0.7.8 版本
 
 ### 2021.08.02 ###
 
