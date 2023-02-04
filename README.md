@@ -33,13 +33,17 @@
 
 ### 使用截图 ###
 
-[![系统信息](https://s1.ax1x.com/2022/09/26/xZSh6I.jpg)](https://imgse.com/i/xZSh6I)
+[![系统信息](https://s1.ax1x.com/2023/02/04/pSyBtCd.jpg)](https://imgse.com/i/pSyBtCd)
 
-[![运行状态](https://s1.ax1x.com/2022/09/26/xZS4Xt.jpg)](https://imgse.com/i/xZS4Xt)
+[![运行状态](https://s1.ax1x.com/2023/02/04/pSyBBb8.jpg)](https://imgse.com/i/pSyBBb8)
 
-[![桌面展示](https://s1.ax1x.com/2022/09/26/xZSInP.jpg)](https://imgse.com/i/xZSInP)
+[![桌面展示](https://s1.ax1x.com/2023/02/04/pSyBvqK.jpg)](https://imgse.com/i/pSyBvqK)
 
 ## 更新日志 ##
+
+### 2022.12.15 ###
+
+升级 OpenCore 至 0.8.7 版本，升级系统至 Ventura 版本
 
 ### 2022.07.30 ###
 
